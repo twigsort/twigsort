@@ -1,5 +1,5 @@
 """
-Django settings for twigsort_poll project.
+Django settings for twigsort project.
 
 For more information on this file, see
 https://docs.djangoproject.com/en/1.6/topics/settings/
@@ -47,9 +47,9 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'twigsort_poll.urls'
+ROOT_URLCONF = 'twigsort.urls'
 
-WSGI_APPLICATION = 'twigsort_poll.wsgi.application'
+WSGI_APPLICATION = 'twigsort.wsgi.application'
 
 
 # Database

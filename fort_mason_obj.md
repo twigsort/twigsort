@@ -44,5 +44,5 @@
 -----|:-----:|:-----:|:-----:|:-----:|
 Agency (boltmade) | 250/hr | 160hrs | $40,000 | 
 Developer | 50 - 100/hr | 120hrs | $6,000 - $12,000 | |
-2nd yr CS student | 40/hr | 120hrs(?) | $4,800 | _Not sure if you can get for just one month_ |
+2nd yr CS student | 27-40/hr | 120hrs(?) | $3,240 - #4,800 | _Just one month; Quality?_ |
 1st yr CS student | 0/hr | x hrs(?) | Free! | _Have to apply through the university early_ |

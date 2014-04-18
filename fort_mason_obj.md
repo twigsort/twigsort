@@ -41,7 +41,7 @@
 
 ####Cost
 <b>dev</b> | <b>Job</b> | <b>$/hr</b> | <b># hrs</b> | <b>total $</b> | <b>Notes</b>
------|:-----:|:-----:|:-----:|:-----:|
+-----|:-----:|:-----:|:-----:|:-----:|:-----:|
 Agency (boltmade) | Full Stack | 250/hr | 160hrs | $40,000 | 
 Developer | Full Stack | 50 - 100/hr | 120hrs | $6,000 - $12,000 | |
 Developer | Javascript | 30 - 40/hr | As needed | NA | |

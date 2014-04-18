@@ -40,9 +40,10 @@
 ===
 
 ####Cost
-<b>dev</b> | <b>$/hr</b> | <b># hrs</b> | <b>total $</b> | <b>Notes</b>
+<b>dev</b> | <b>Job</b> | <b>$/hr</b> | <b># hrs</b> | <b>total $</b> | <b>Notes</b>
 -----|:-----:|:-----:|:-----:|:-----:|
-Agency (boltmade) | 250/hr | 160hrs | $40,000 | 
-Developer | 50 - 100/hr | 120hrs | $6,000 - $12,000 | |
-2nd yr CS student | 27-40/hr | 120hrs(?) | $3,240 - #4,800 | _Just one month==premium; Quality?_ |
-1st yr CS student | 0/hr | x hrs(?) | Free! | _Have to apply through the university early_ |
+Agency (boltmade) | Full Stack | 250/hr | 160hrs | $40,000 | 
+Developer | Full Stack | 50 - 100/hr | 120hrs | $6,000 - $12,000 | |
+Developer | Javascript | 30 - 40/hr | As needed | NA | |
+2nd yr CS student | Full Stack | 27-40/hr | 120hrs(?) | $3,240 - #4,800 | _Just one month==premium; Quality?_ |
+1st yr CS student | Data entry | 0/hr | x hrs(?) | Free! | _Have to apply through the university early_ |

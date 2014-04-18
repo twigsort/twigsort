@@ -1,4 +1,4 @@
-#####Overview
+####Overview
 * Collect data
   * excel sheet -> .csv -> Django
   * input form -> Django
@@ -15,7 +15,9 @@
   * ProcessingJS graph (#?)
   * ProcessingJS axonometric use (#?)
 
-#####Front-end / Back-end
+===
+
+####Front-end / Back-end
 <b>i</b> | <b>front-end</b> 
 -----|:-------------:|
 1 | data views in ProcessingJS  
@@ -32,13 +34,11 @@
 5 | SQLite for database
 6 | OOP structure for data
 
+===
 
-#####Cost
+####Cost
 <b>dev</b> | <b>$/hr</b> | <b># hrs</b> | <b>total $</b> | <b>Notes</b>
 -----|:-----:|:-----:|:-----:|:-----:|
 Agency (boltmade) | 250/hr | 160hrs | $40,000 | 
-Dev | 50/hr | 120hrs | $6,000 | |
+Developer | 50 - 100/hr | 120hrs | $6,000 - $12,000 | |
 2nd yr CS student | 40/hr | 120hrs(?) | $4,800 | _Not sure if you can get for just one month_ |
-
-
-       
